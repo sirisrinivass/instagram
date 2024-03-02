@@ -1,0 +1,42 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.form input
+{
+    color: firebrick;
+    border-color: black;
+    font-size: 10px;
+    width: 160px;
+    padding: 3px;
+    border: 1px solid black;
+
+}
+
+.form button
+{
+    color: white;
+    background-color: aquamarine;
+    border-radius: 5px;
+    border-color: transparent;
+    size: 150px;
+    width: 100%;
+}
+
+
+
+.sri
+{
+    border: 1px solid black;
+    height: 150px;
+    width: 180px;
+    float: 100px;
+}
+
+.bujji
+{
+    width: 180px;
+}
